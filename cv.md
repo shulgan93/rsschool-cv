@@ -39,3 +39,22 @@ Work examples:
 
 - [site porfolio](https://shulhan.ru/)
 - [site code](https://code.shulhan.ru/)
+
+## Education
+
+- Sukhoi State Technical University of Gomel
+- Courses:
+  - [hexlet.io](https://hexlet.io/) (frontend-end)
+  - [htmlacademy.ru](https://htmlacademy.ru/)
+  - [udemy.com](https://www.udemy.com/course/webdeveloper/) (web developer)
+  - [glo-academy.ru](https://glo-academy.ru/web-start/)
+
+## English
+
+**My English level**: Elementary
+
+Courses:
+
+- [duolingo](https://ru.duolingo.com/)
+- [lingualeo](https://lingualeo.com/)
+- [Playlist English](https://www.youtube.com/channel/UC_3oKG5Szq-m6Xz-MjRZgpw)
