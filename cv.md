@@ -28,7 +28,7 @@ export default (str) => {
       return false;
     }
   }
-  return acc === 0;
+  return acc === 0
 };
 ```
 
